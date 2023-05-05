@@ -1,0 +1,11 @@
+@import '../../variables.scss';
+
+.wrapper-links {
+    margin-left: 25%;
+    padding: 0px 15px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 60px;
+}

@@ -1,0 +1,53 @@
+@import '../../variables.scss';
+
+.container-button {
+    button {
+        width: 305px;
+        padding: 20px 0px;
+
+        display: block;
+        position: relative;
+
+        background: $color_bg;
+        border: 2px solid $color_links;
+        box-sizing: border-box;
+        
+        color: $color_links;
+        font-size: 1rem;
+        font-weight: 600;
+        letter-spacing: 0.025rem;
+        text-transform: uppercase;
+
+        transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+    }
+    
+    button:hover {
+        cursor: pointer;
+        color: rgba($color: $color_white, $alpha: .9) !important;
+        background-color: transparent;
+        text-shadow: none;
+    }
+
+    button:hover:before {
+        bottom: 0%;
+        top: auto;
+        height: 100%;
+    }
+
+    button:before {
+        content: '';
+        width: 100%;
+
+        display: block;
+        position: absolute;
+        z-index: -1;
+
+        left: 0px;
+        top: 0px;
+        height: 0px;
+        
+        color: rgba($color: $color_white, $alpha: .9) !important;
+        background: $color_links;
+        transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+    }
+}

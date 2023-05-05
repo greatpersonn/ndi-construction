@@ -1,0 +1,87 @@
+{
+    "about-company": "About",
+    "contacts-company": "Contacts",
+    "partnership-company": "Partnership",
+    "services-company": "Services",
+    "partfolio-company": "Partfolio",
+    "joboffer-company": "Employment",
+    "ru": "RU",
+    "en": "EN",
+    "work_example": "Work Example",
+    "name-holder": "Bob",
+    "lastname-holder": "Bewsey",
+    "email-holder": "examplemail@gmail.com",
+    "phone-holder": "+__ (___) ___-__-__",
+    "textarea-holder": "About yourself",
+    "call-me": "Request a call",
+    "phone-number": "+11 (222) 333-44-55",
+    "shedule-calling": "Everyday from 10:00 to 22:30",
+    "email-company": "ndiconst@gmail.com",
+    "about-company-header": "Interior design studio Construction Company",
+    "modal-call-header": "Back call",
+    "modal-call-message": "You have successfully left a request for a callback, please wait, our manager will contact you shortly!",
+    "error-call-header": "Invalid phone number",
+    "error-call-message": "Please enter a valid phone number where we can contact you!",
+    "about-arhitecture": {
+        "first": "Architecture is a kind of music, which you can see, hear and touch.",
+        "second": "Architecture should be a source of joy and celebration for all people.",
+        "third": "Architecture is not just about walls and windows. It's about creating space for people to live, work, and play.",
+        "fourth": "Architecture is a technology that has found its way to become art.",
+        "fiveth": "Architecture should be the foundation of public life, not isolation from it.",
+        "sixth": "Architecture is the learned game, correct and magnificent, of forms assembled in the light.",
+        "seventh": "Architecture is a living creative process, moving through time and space, always free from any cruel and limiting conditions.",
+        "eighth": "Architecture should embody the ideals of the society it serves.",
+        "nineth": "Architecture is life, which should be balanced and harmonic.",
+        "tenth": "Architecture is a way of being present in the world.",
+        "eleventh": "Architecture should be built upon experience and the perception of the world around us.",
+        "twelfth": "Architecture is the creation of a new world, founded on beauty, order, and harmony.",
+        "thirteenth": "Architecture is an incredibly powerful tool for changing the world around us."
+    },
+    "about-company-title": {
+        "part_one": "Construction Company is a company specializing in interior design and construction. The company has a wealth of experience in creating beautiful and functional interiors for residential and commercial properties. They provide a wide range of services, from design and consultation to complete interior construction and furnishing.",
+        "part_two": "The Construction Company team consists of experienced professionals, including designers, architects, engineers, and builders, who work together to create interiors that meet all the needs and desires of their clients. The company uses only high-quality materials and innovative technologies to create interiors that will look great and serve their owners for many years.",
+        "part_three": "Construction Company offers an individual approach to each client, taking into account their budget, tastes, and needs. They work with clients at all stages of the process to ensure that their ideas and desires are taken into account and realized in their future interior.",
+        "part_fourth": "Construction Company strives to create unique interiors that reflect the individuality and style of each client, and also provides a warranty for the quality of their work. If you are looking for a company that can create a stunning interior that will serve you for many years, then Construction Company is an excellent choice."
+    },
+    "about-work-company-title": {
+        "part_one": "The company has completed numerous projects for both residential and commercial clients, ranging from small apartments to large office buildings. Regardless of the size or complexity of the project, Construction Company always delivers outstanding results that exceed their clients' expectations.",
+        "part_two": "Construction Company is known for their attention to detail and their ability to bring their clients' vision to life. They work closely with their clients throughout the entire process, from initial design to final construction, to ensure that the final result meets their needs and exceeds their expectations.",
+        "part_three": "The results of their work are visible in the beautiful and functional interiors that they have created. Their designs are innovative, modern, and tailored to the individual needs of their clients. The interiors that they have created are not only aesthetically pleasing but are also functional and practical, meeting the needs of their clients and enhancing their daily lives.",
+        "part_fourth": "In summary, Construction Company has a long-standing reputation for delivering outstanding results in interior design and construction. Their commitment to excellence and attention to detail is evident in the stunning interiors that they have created for their clients. If you're looking for a company that can deliver outstanding results and bring your interior design vision to life, Construction Company is an excellent choice."
+    },
+    "projects-title": "Is your home not worthy of this?",
+    "projects-header": "Our projects",
+    "all-projects": "All projects",
+    "request-project": {
+        "header": "You can enjoy the interior by dialing us",
+        "title": "We take full responsibility for the development and implementation of the project!",
+        "discuss-project": "Discuss the project",
+        "get-offer": "Get an offer"
+    },
+    "faq-header": "FAQ",
+    "dropdown-header-text": {
+        "first": "Вопрос номер один вот такой",
+        "second": "Вопрос номер два вот такой",
+        "third": "Вопрос номер три вот такой",
+        "fourth": "Вопрос номер четыре вот такой",
+        "fiveth": "Вопрос номер пять вот такой"
+    },
+    "request-partnership": {
+        "header": "Partnerships",
+        "title": "We always welcome any proposals, especially partnerships. Let's try to offer each other something that no one can replace!",
+        "name": "Enter your name",
+        "lastname": "Enter your lastname",
+        "phone": "Enter your phone number",
+        "email": "Enter your E-Mail",
+        "become-partner": "Become a partner",
+        "modal-header": "Partnership Application",
+        "modal-message": "You have successfully filled in all the fields and your application has been sent for processing by our specialists, please wait, we will contact you in the near future and discuss all the details of our partnership!",
+        "error-header": "Empty fields",
+        "error-message": "You did not provide a phone number or email, fill them in, they are required!"
+    },
+    "request-employment": {
+        "header": "Are you looking for a prestigious and well-paid job?",
+        "title": "Send us your resume and we will find you a suitable vacancy in our company!",
+        "file-upload": "Upload File"
+    }
+}

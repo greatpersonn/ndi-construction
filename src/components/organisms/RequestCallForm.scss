@@ -1,0 +1,50 @@
+@import '../../variables.scss';
+
+.container-form {
+    width: 100%;
+
+    form {
+        padding: 25px 0px;
+        width: 100%;
+
+        box-shadow: 0px 10px 13px -3px rgba(0, 0, 0, 0.1);
+
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 80px;
+
+        .form-title {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            gap: 80px;
+
+            font-size: 1.15rem;
+
+            .title-phone {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+
+                color: $color_links;
+                
+                a.phone-link {
+                    font-size: 1.5rem;
+                    font-weight: 500;
+                }
+
+            }
+
+            a.mail-link {
+                text-transform: none;
+                font-weight: 400;
+                font-size: 1.2rem;
+            }
+        }
+
+    }
+}

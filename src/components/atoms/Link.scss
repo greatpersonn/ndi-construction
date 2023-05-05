@@ -1,0 +1,17 @@
+@import '../../variables.scss';
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: $color_links;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.025rem;
+    transition: all 0.6s;
+    outline: none;
+
+    &:hover {
+        color: $color_links_hover;
+        transition: all 0.3s;
+    }
+}

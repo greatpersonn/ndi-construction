@@ -1,0 +1,47 @@
+@import '../../variables.scss';
+
+.container-subheader {
+    height: 640px;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+
+    .subheader-wrapper {
+        position: relative;
+        height: 80%;
+
+        .wrapper-carousel-item {
+            height: 100%;
+            
+            img {
+                width: 100%;
+                height: 100%;
+            }
+        }
+
+
+        span {
+            width: 95%;
+            padding: 30px 0px 30px 32px;
+
+            position: absolute;
+            z-index: 1;
+            top: 550px;
+            opacity: 0;
+
+            color: rgba($color: $color_white, $alpha: .9);
+            font-size: 1.4rem;
+            font-weight: 700;
+            letter-spacing: 0.025rem;
+
+            transition: all 0.1s ease-out;
+        }
+
+        &:hover {
+            span {
+                opacity: 1;
+            }
+        }
+    }
+}

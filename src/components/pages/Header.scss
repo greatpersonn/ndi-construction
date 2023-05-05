@@ -1,0 +1,15 @@
+header {
+    width: 100%;
+
+    .header-wrapper {
+        width: 90%;
+        padding: 15px;
+
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 15px;
+    }
+}
+

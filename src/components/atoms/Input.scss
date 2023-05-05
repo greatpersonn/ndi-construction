@@ -1,0 +1,19 @@
+@import '../../variables.scss';
+
+.container-input {
+    input {
+        width: 330px;
+        padding: 20px 15px;
+
+        outline: none;
+        border: 1px solid rgba($color: $color_links, $alpha: 0.8);
+
+        font-size: 1.1rem;
+        color: $color_links;
+        background-color: $color_bg;
+
+        &::placeholder {
+            font-family: 'Raleway', sans-serif;
+        }
+    }
+}
