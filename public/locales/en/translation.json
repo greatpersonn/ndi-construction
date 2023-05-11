@@ -3,7 +3,7 @@
     "contacts-company": "Contacts",
     "partnership-company": "Partnership",
     "services-company": "Services",
-    "partfolio-company": "Partfolio",
+    "partfolio-company": "Portfolio",
     "joboffer-company": "Employment",
     "ru": "RU",
     "en": "EN",
@@ -14,7 +14,7 @@
     "phone-holder": "+__ (___) ___-__-__",
     "textarea-holder": "About yourself",
     "call-me": "Request a call",
-    "phone-number": "+11 (222) 333-44-55",
+    "phone-number": "+49 176 325-44-188",
     "shedule-calling": "Everyday from 10:00 to 22:30",
     "email-company": "ndiconst@gmail.com",
     "about-company-header": "Interior design studio Construction Company",
@@ -56,15 +56,22 @@
         "header": "You can enjoy the interior by dialing us",
         "title": "We take full responsibility for the development and implementation of the project!",
         "discuss-project": "Discuss the project",
-        "get-offer": "Get an offer"
+        "get-offer": "Get an offer",
+        "modal-header-discuss": "Your project",
+        "modal-message-discuss": "Fill in the required fields below so that we can contact you for further cooperation!",
+        "modal-header-offer": "Offer",
+        "modal-message-offer": "By filling in the required fields below, we will be able to send you the latest offers and discounts of our company!",
+        "button-name": "Send",
+        "submodal-error-header": "Incorrect data",
+        "submodal-error-message": "Enter a valid phone number and e-mail, in which case you will be able to apply for a job!"
     },
     "faq-header": "FAQ",
     "dropdown-header-text": {
-        "first": "Вопрос номер один вот такой",
-        "second": "Вопрос номер два вот такой",
-        "third": "Вопрос номер три вот такой",
-        "fourth": "Вопрос номер четыре вот такой",
-        "fiveth": "Вопрос номер пять вот такой"
+        "first": "Why is supervision necessary?",
+        "second": "Why do you need a set of objects?",
+        "third": "What styles do you work in?",
+        "fourth": "How many floor plans do you make?",
+        "fiveth": "Can you create a complete project in 1 month?"
     },
     "request-partnership": {
         "header": "Partnerships",
@@ -76,12 +83,26 @@
         "become-partner": "Become a partner",
         "modal-header": "Partnership Application",
         "modal-message": "You have successfully filled in all the fields and your application has been sent for processing by our specialists, please wait, we will contact you in the near future and discuss all the details of our partnership!",
-        "error-header": "Empty fields",
-        "error-message": "You did not provide a phone number or email, fill them in, they are required!"
+        "error-header": "Incorrect data",
+        "error-message": "Enter the correct phone number and e-mail, in which case you will be able to apply for a partnership!"
     },
     "request-employment": {
-        "header": "Are you looking for a prestigious and well-paid job?",
+        "header": "Are you looking for a job and want to become an employee of our company?",
         "title": "Send us your resume and we will find you a suitable vacancy in our company!",
-        "file-upload": "Upload File"
+        "file-upload": "Upload File",
+        "modal-header": "Successfully",
+        "modal-message": "You have successfully filled in the fields and sent your job application, our manager will contact you shortly and clarify some details, please wait!",
+        "error-header": "Incorrect data",
+        "error-message": "Enter a valid phone number and e-mail, in which case you will be able to apply for a job!",
+        "button-name": "Send"
+    },
+    "contacts": {
+        "header": "Our contacts",
+        "first-phone": "+49 176 325 44 188",
+        "second-phone": "+371 284 73 461",
+        "title-phone": "Everyday from 10:00 to 22:30",
+        "email-company": "ndiconst@gmail.com",
+        "title-email": "You can also contact us via email using this up-to-date address!",
+        "first-title": "Here are the options by which you can contact us and find out or clarify any information that interests you. You can also leave a request for a callback by clicking on the button below and filling in the required fields!"
     }
 }

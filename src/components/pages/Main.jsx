@@ -32,6 +32,7 @@ import RequestPartnershipForm from '../organisms/RequestPartnershipForm';
 
 /* Partnership Image */
 import imagePartnership_01 from '../../assets/images/Work_Image_12.png';
+import Contacts from '../organisms/Contacts';
 
 const contentHeader = [
     { imageUrl: imageHeader_01, imageAlt: "Work Example", title: "about-arhitecture.first" },
@@ -56,6 +57,13 @@ const contentFAQ = [
     { header: "dropdown-header-text.fiveth", text: "about-work-company-title.part_one" }
 ]
 
+const contentContacts = {
+    header: "contacts.header",
+    phoneTitle: ["contacts.first-phone", "contacts.second-phone", "contacts.title-phone"],
+    emailTitle: ["contacts.email-company", "contacts.title-email"],
+    title: ["contacts.first-title"]
+}
+
 const Main = () => {
     return (
         <main>
@@ -71,6 +79,7 @@ const Main = () => {
                 <RequestProjectForm imageUrl={imageProject_01} imageAlt={"Image Project"} header={"request-project.header"} title={["request-project.title"]} buttonNameDiscuss={"request-project.discuss-project"} buttonNameOffer={"request-project.get-offer"} />
                 <FrequentlyAskedQuestion contents={contentFAQ} />
                 <RequestPartnershipForm imageUrl={imagePartnership_01} imageAlt={'Partnership Image'} />
+                <Contacts header={contentContacts.header} phoneTitle={contentContacts.phoneTitle} emailTitle={contentContacts.emailTitle} title={contentContacts.title} />
                 <RequestJobForm imageUrl={imagePartnership_01} imageAlt={'Employment Image'}/>
             </div>
         </main>
