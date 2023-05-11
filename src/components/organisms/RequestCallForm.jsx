@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { useNavigate } from 'react-router-dom';
 import emailjs from '@emailjs/browser';
 
+import Text from '../atoms/Text';
 import Input from '../atoms/Input';
 import Button from '../atoms/Button';
 import Modal from '../molecules/Modal';
@@ -19,6 +20,7 @@ const RequestCallForm = () => {
     const [modalActive, setModalActive] = useState(false);
     const [modalContent, setModalContent] = useState([]);
     const [isValid, setValidate] = useState(false);
+
     const _userPhone = useInput('', true);
 
     const handlerSubmit = (event) => {
@@ -41,9 +43,8 @@ const RequestCallForm = () => {
         }
     }
 
-    // validate phone number
     const handleValidate = () => {
-        const regexNumber = /^[0-9\b]+$/;
+        const regexNumber = /^[0-9\b+]+$/;
         if (_userPhone.value && regexNumber.test(_userPhone.value)) {
             setValidate(prev => !prev);
         } else {
@@ -67,7 +68,9 @@ const RequestCallForm = () => {
                     <Button name={"call-me"} action={handleValidate} />
                 </form>
             </div>
-            <Modal active={modalActive} setActive={setModalActive} header={modalContent[0]} title={modalContent[1]} />
+            <Modal active={modalActive} setActive={setModalActive} header={modalContent[0]}>
+                <Text contents={[modalContent[1]]} />
+            </Modal>
         </>
     );
 }

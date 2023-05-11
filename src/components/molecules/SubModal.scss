@@ -1,6 +1,6 @@
 @import '../../variables.scss';
 
-.container-modal {
+.container-submodal {
     width: 100vw;
     height: 100vh;
 
@@ -13,8 +13,6 @@
     justify-content: center;
     align-items: center;
 
-    background: rgba($color: $color_links, $alpha: .4);
-
     opacity: 0;
     pointer-events: none;
     transition: 0.3s all;
@@ -26,11 +24,11 @@
 
     .modal-wrapper {
         padding: 25px;
-        width: 600px;
+        width: 400px;
 
         background: white;
 
-        transform: scale(0.5);
+        transform: translateX(0px);
         transition: 0.4s all;
 
         .wrapper-header {
@@ -63,32 +61,11 @@
         }
 
         &.active {
-            transform: scale(1);
+            transform: translateX(560px);
 
             .container-text {
                 width: 85%;
             }
-
-            form {
-                padding: 15px 0px;
-
-                display: flex;
-                flex-direction: column;
-                gap: 10px;
-
-                .container-input {
-                    input {
-                        padding: 15px;
-                    }
-                }
-            }
         }
     }
 }
-
-// .container-modal.active {
-
-//     .modal-wrapper.active {
-//         transform: scale(0.5);
-//     }
-// }
