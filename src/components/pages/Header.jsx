@@ -3,12 +3,13 @@ import Navigation from '../molecules/Navigation';
 import Switch from '../atoms/Switch';
 
 import './Header.scss';
+import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
         <header>
             <div className="header-wrapper">
-                <Logo />
+                <NavLink to={'/'}><Logo /></NavLink>
                 <Navigation />
                 <Switch />
             </div>

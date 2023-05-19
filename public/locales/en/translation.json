@@ -104,5 +104,91 @@
         "email-company": "ndiconst@gmail.com",
         "title-email": "You can also contact us via email using this up-to-date address!",
         "first-title": "Here are the options by which you can contact us and find out or clarify any information that interests you. You can also leave a request for a callback by clicking on the button below and filling in the required fields!"
+    },
+    "footer": {
+        "title-arhitecture": "Architecture is not just the creation of beautiful buildings, it is the living breath of the city, where every line, every shape and every space has the power to transform the world around us and inspire those who live in it.",
+        "title-company": "Interior design studio NDI Construction Company"
+    },
+    "about-page": {},
+    "services-page": {
+        "header": "About services",
+        "title": {
+            "first": "NDI Construction Company is an interior design company with years of experience in the industry. We are proud of our reputation as a reliable and professional team that creates unique and functional interior solutions.",
+            "second": "We attach great importance to the quality of our work. We work only with proven and high-quality materials to guarantee the durability and aesthetic appeal of your interiors. We also use advanced technologies and innovative approaches to achieve optimal results in every project.",
+            "third": "Our goal is to provide you with not just a beautiful interior, but also a functional space that reflects your style and meets your needs. We listen carefully to your wishes and strive to make them a reality, taking into account the budget and project timeline.",
+            "fourth": "We guarantee a high level of professionalism and transparency in all aspects of work. We work with you throughout the process, providing regular communication and feedback to keep you informed at every stage of the work."
+        },
+        "sub-title": {
+            "first": "We are proud to present you with all these services to create the perfect space to suit your needs and tastes. Our team of professionals with extensive experience guarantees the high quality of all work performed.",
+            "second": "As a result, cooperation with NDI Construction Company gives you the opportunity to receive a full range of interior design services. We offer architectural supervision, where we take responsibility for the proper execution of your project. Our decorators will help you create a stylish interior that reflects your personality. Finishing work and facade work will be done with professionalism and precision to make your space look flawless. Our team of carpenters will create furniture and interior elements that will fit in with the overall style and fit into your needs.",
+            "third": "We strive to exceed your expectations and create a space that will inspire and delight you. Quality, reliability and individual approach - that's what makes us different. Contact us today to start turning your interior project into reality."
+        },
+        "button-name": "Submit your application",
+        "service-first": {
+            "header": "Author's supervision",
+            "title": "This type of service guarantees the client a complete and accurate implementation of your entire project."
+        },
+        "service-second": {
+            "header": "Decorator",
+            "title": "This is the person who will be able to perform the most difficult tasks. Decorative plaster will always allow you to realize your individuality in your renovation, maintain a high style and always keep up with the times."
+        },
+        "service-third": {
+            "header": "Finishing work",
+            "title": "We provide turnkey finishing services. A team of professional finishers will perform work of any complexity, both rough and finish."
+        },
+        "service-fourth": {
+            "header": "Facade works",
+            "title": "We provide services for the so-called 'wet facade', which includes insulation, reinforcement, decor."
+        },
+        "service-fiveth": {
+            "header": "Carpentry work",
+            "title": "Our team of carpenters provides such types of work as the installation of decking, the erection of gazebos and various sheds."
+        }
+    },
+    "portfolio-page": { 
+        "small-header": "Our work",
+        "header": "About the work of NDI Construction Company",
+        "title": {
+            "first": "The quality of NDI Construction Company's work is one of its top priorities. The company prides itself on its ability to deliver superior interior design and construction services, meeting and exceeding customer expectations.",
+            "second": "One of the key aspects of the quality of NDI Construction Company's work is the professionalism of its staff. Each member of the team has extensive experience and expertise in their field, which allows the company to provide a high level of project execution. They listen carefully to their customers, take into account their wishes and offer innovative and practical solutions that meet the highest standards.",
+            "third": "NDI Construction Company also attaches great importance to the selection and use of quality materials and resources. They carefully select suppliers and contractors to ensure that all materials and components used are reliable and durable. The company strives to ensure that the result of its work stands the test of time and pleases customers for many years.",
+            "fourth": "When it comes to NDI Construction Company personnel, they are as important as the projects themselves. The company is proud of its highly qualified team of specialists, including designers, architects, builders and project managers. Each member of the staff has extensive experience and expertise in their field, which allows the company to implement high quality projects.",
+            "fiveth": "In addition, the NDI Construction Company team is characterized by professionalism, creativity and attention to detail. They work closely with clients to understand their needs and turn them into reality. Thanks to their excellent communication and management skills, the company's staff is able to ensure the timely and successful implementation of projects."
+        }
+    },
+    "partnership-page": {
+        "small-header": "Partnership",
+        "header": "NDI Partner Program",
+        "title": {
+            "first": "NDI Construction Company is a leading company specializing in interior design and the creation of unique spaces. We pride ourselves on our reputation as top notch professionals who turn your vision into reality with ease.",
+            "second": "Our partners are the heart and soul of our success. We strive for long-term partnerships with leading brands and material suppliers to provide our customers with only the best quality and reliability. We are convinced that a successful partnership is a mutual benefit, and therefore we are constantly working to strengthen ties with our partners.",
+            "third": "What makes our partnership with us so unique? First, we value individuality and quality. We strive to ensure that each project we are involved in is special and meets the expectations of our clients. We carefully select our partners to make sure they share our passion for quality and innovation.",
+            "fourth": "Secondly, our partnership with NDI Construction Company is a guarantee of success. We offer our partners a wide range of opportunities to promote their products and services along with our projects. We partner with leading brands to offer our customers exclusive and high quality solutions for their interiors.",
+            "fiveth": "Our strategic orientation and strong relationships with our partners enable us to offer modern and innovative solutions to our clients. We follow the latest trends in interior design and are always open to new ideas and opportunities.",
+            "sixth": "If you are interested in partnering with us, we would love to hear from you. Our team is ready to discuss potential cooperation options and find the best solutions that will be mutually beneficial for all parties.",
+            "seventh": "Contact us today to start our mutually beneficial partnership and create unique interiors that will be talked about for years to come."
+        }
+    },
+    "contacts-page": {
+        "small-header": "Contacts",
+        "header": "NDI Contact Center",
+        "title": {
+            "first": "We are always available to take your call and discuss your interior design needs. Feel free to contact us for more information or project details.",
+            "second": "Our team of professionals is ready to take on the challenge of transforming your space into a unique and delightful space that reflects your personality and style. We strive for the highest quality and excellence in every project, so contact us today and give us the opportunity to exceed your expectations.",
+            "third": "We understand that each client is unique, so our designers will carefully listen to your wishes and needs in order to create an interior that reflects your vision and embodies your life philosophy. We guarantee an individual approach and meticulous attention to detail to achieve the perfect result.",
+            "fourth": "Feel free to contact us today. We are ready to discuss your ideas, provide design advice and help you make your dream come true."
+        }
+    },
+    "employment-page": {
+        "small-header": "Employment",
+        "header": "NDI job center",
+        "title": {
+            "first": "NDI Construction Company is a dynamic company and we are always happy to welcome new talented people to our team. If you are seeking a career in interior design and would like to be part of our successful organization, we invite you to consider working with us.",
+            "second": "We are looking for creative, energetic and motivated professionals who share our values of quality, innovation and customer focus. We strive to create unique and impressive interior solutions for our clients, so we expect a high degree of involvement and professionalism from our employees.",
+            "third": "We offer a variety of opportunities for professional growth and development. Here you will find a stimulating work environment where creativity, teamwork and customer interaction are valued. We support the professional learning and continuous improvement of our employees so that they can reach their full potential and succeed in their careers.",
+            "fourth": "If you are experienced in interior design, have strong customer service skills, and are willing to contribute to the creation of great interiors, we would love to consider you. Please send your CV and portfolio to our email ndiconst@gmail.com with the subject line 'Employment'. We will contact you if your qualifications meet our requirements.",
+            "fiveth": "NDI Construction Company recognizes and values diversity and equal opportunity. We support equality of opportunity and encourage all interested persons who meet our requirements to submit their applications.",
+            "sixth": "Join our team and be part of our success. We look forward to seeing you!"
+        }
     }
 }

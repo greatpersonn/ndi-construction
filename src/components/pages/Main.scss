@@ -1,5 +1,15 @@
 @import '../../variables.scss';
 
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(calc(-250px * 7));
+    }
+}
+
 main {
     width: 100%;
 
@@ -13,6 +23,10 @@ main {
 
         .wrapper-button {
             padding: 60px 0px 0px;
+        }
+
+        .service-wrapper-button {
+            padding: 35px 0px;
         }
     }
 }

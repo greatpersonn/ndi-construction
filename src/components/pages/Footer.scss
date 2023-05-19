@@ -5,8 +5,35 @@ footer {
     
     .container-footer {
         width: 100%;
+        padding: 80px 0px;
 
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+        background: rgba($color: $color_links, $alpha: .95);
+
+        .container-header {
+            width: 25%;
+            text-align: center;
+
+            span {
+                color: $color_white;
+            }
+        }
+
+        .container-text {
+            width: 40%;
+
+            .text-wrapper {
+                text-align: center;
+
+                span {
+                    font-size: 1.2rem;
+                    color: $color_white;
+                }
+            }
+        }
     }
 }
