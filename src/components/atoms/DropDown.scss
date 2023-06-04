@@ -61,3 +61,35 @@
         }
     }
 }
+
+@media screen and (max-width: 768px) {
+    .container-dropdown {
+        width: 100%;
+
+        .active {
+            padding: 15px 0px 0px 45px;
+            height: 450px;
+        }
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .container-faq .questions-wrapper .container-dropdown .active {
+        padding: 15px 0px 0px 25px;
+        height: 450px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container-faq .questions-wrapper .container-dropdown .active {
+        padding: 15px 0px 0px 20px;
+        height: 450px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .container-faq .questions-wrapper .container-dropdown .active {
+        padding: 15px 0px 0px 20px;
+        height: 420px;
+    }
+}

@@ -11,3 +11,58 @@
         gap: 20px;
     }
 }
+
+@media screen and (max-width: 1420px) {
+    .container-faq {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .questions-wrapper {
+            display: flex;
+            flex-direction: column;
+            gap: 25px;
+        }
+
+        .container-header {
+            width: 100%;
+            text-align: center;
+        }
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .container-faq {
+        width: 100%;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        
+        .questions-wrapper {
+            width: 80%;
+            padding: 0px 10px;
+
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+
+            .container-dropdown {
+                width: 80%;
+
+                .active {
+                    height: 420px;
+                }
+            }
+        }
+
+        .container-header {
+            width: 100%;
+            text-align: center;
+        }
+    }
+}
