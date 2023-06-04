@@ -114,11 +114,11 @@
 
 @media screen and (min-width: 1910px) {
     .container-subheader {
-        height: 640px;
+        height: 675px;
     }
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 320px) {
     .container-subheader {
         height: auto;
     }

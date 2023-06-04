@@ -1,6 +1,6 @@
 import Link from '../atoms/Link';
 
-import './navigation.scss';
+import './Navigation.scss';
 
 const Navigation = () => {
     return (
