@@ -16,3 +16,11 @@
         line-height: 130%;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .container-header {
+        span {
+            font-size: 1.8rem;
+        }
+    }
+}

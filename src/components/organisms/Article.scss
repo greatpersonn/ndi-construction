@@ -28,3 +28,51 @@
         width: 30%;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .container-article {
+        .article-title {
+            width: 45%;
+        }
+
+        .wrapper-carousel-item {
+            width: 40%;
+        }
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .container-article {
+        .article-title {
+            width: 80%;
+        }
+
+        .wrapper-carousel-item {
+            display: none;
+        }
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container-article {
+        .article-title {
+            width: 80%;
+        }
+
+        .wrapper-carousel-item {
+            display: none;
+        }
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .container-article {
+        .article-title {
+            width: 80%;
+        }
+
+        .wrapper-carousel-item {
+            display: none;
+        }
+    }
+}

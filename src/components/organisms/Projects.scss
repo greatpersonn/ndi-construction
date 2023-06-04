@@ -59,3 +59,423 @@
         }
     }
 }
+
+@media screen and (min-width: 400px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 91px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 550px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 129px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 172px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 780px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 174px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 990px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 220px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media screen and (min-width: 1024px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 229px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1220px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 272px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1366px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 305px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 321px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1490px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 333px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media screen and (min-width: 1630px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 365px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1850px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 413px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1910px) {
+    .container-projects {
+    
+        .projects-examples {
+
+            .project-wrapper {
+                height: 500px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: none;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .container-projects {
+    
+        .projects-title {
+            width: 80%;
+            padding: 80px 0px 0px 30px;
+    
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+
+            .container-text {
+                width: 80%;
+            }
+
+            .container-header {
+                width: 80%;
+            }
+        }
+
+        .projects-examples {
+
+            .project-wrapper {
+                height: 95px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    .container-projects {
+    
+        .projects-title {
+            padding: 40px 5px 0px;
+        }
+
+        .projects-examples {
+
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1px;
+
+            .project-wrapper {
+                height: 125px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }    
+}
+
+@media screen and (max-width: 320px) {
+    .container-projects {
+    
+        .projects-title {
+            padding: 20px 5px 0px;
+        }
+
+        .projects-examples {
+
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1px;
+
+            .project-wrapper {
+                height: 108px;
+
+                .wrapper-example {
+                    height: 100%;
+    
+                    .wrapper-carousel-item {
+                        height: 100%;
+
+                        img {
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+    }    
+}

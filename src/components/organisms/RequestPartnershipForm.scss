@@ -66,3 +66,212 @@
         }
     }
 }
+
+@media screen and (max-width: 1720px) {
+    .container-partnership {
+        width: 100%;
+        height: 600px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .partnership-image {
+            display: none;
+        }
+
+        form {
+            width: 100%;
+            padding: 0px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            .container-header {
+                width: 70%;
+                text-align: center;
+            }
+
+            .container-text {
+                width: 40%;
+                padding: 0px 0px 20px;
+
+                .text-wrapper {
+                    text-align: center;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container-partnership {
+        width: 100%;
+        height: 700px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .partnership-image {
+            display: none;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-partnership {
+        width: 100%;
+        height: 920px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .partnership-image {
+            display: none;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-partnership {
+        height: 680px;
+        padding: 5px 0px;
+
+        form {
+
+            .container-header {
+                padding: 10px 0px;
+            }
+
+            .container-text {
+                width: 90%;
+            }
+
+            .container-input {
+                padding: 10px 0px;
+    
+                input {
+                    width: 330px;
+                    padding: 15px;
+                }
+            }
+
+            .container-button {
+                padding: 10px 0px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .container-partnership {
+        height: 750px;
+        padding: 5px 0px;
+
+        form {
+
+            .container-header {
+                padding: 10px 0px;
+            }
+
+            .container-text {
+                width: 90%;
+            }
+
+            .container-input {
+                width: 90%;
+                padding: 10px 0px;
+    
+                input {
+                    width: 90%;
+                    padding: 15px;
+                }
+            }
+
+            .container-button {
+                width: 90%;
+                
+                button {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container-partnership {
+        height: 750px;
+        padding: 5px 0px;
+
+        form {
+
+            .container-header {
+                padding: 10px 0px;
+            }
+
+            .container-text {
+                width: 90%;
+            }
+
+            .container-input {
+                padding: 10px 0px;
+    
+                input {
+                    width: 90%;
+                    padding: 15px;
+                }
+            }
+
+            .container-button {
+                width: 90%;
+                
+                button {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .container-partnership {
+        height: 750px;
+        padding: 5px 0px;
+
+        form {
+
+            .container-header {
+                padding: 10px 0px;
+            }
+
+            .container-text {
+                width: 90%;
+            }
+
+            .container-input {
+                padding: 10px 0px;
+    
+                input {
+                    width: 90%;
+                    padding: 15px;
+                }
+            }
+
+            .container-button {
+                width: 90%;
+                
+                button {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
