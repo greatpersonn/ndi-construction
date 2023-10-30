@@ -72,6 +72,18 @@
     }
 }
 
+
+@media screen and (min-width: 320px) {
+    .container-form {
+        padding: 0px;
+        margin: 0px;
+
+        form {
+            padding: 0px 0px 30px;
+        }
+    }
+}
+
 @media screen and (min-width: 1930px) {
     .container-form {
         margin: 10px 0px 0px 0px;
@@ -123,16 +135,5 @@
 @media screen and (min-width: 2405px) {
     .container-form {
         margin: 170px 0px 0px 0px;
-    }
-}
-
-@media screen and (min-width: 320px) {
-    .container-form {
-        padding: 0px;
-        margin: 0px;
-
-        form {
-            padding: 0px 0px 30px;
-        }
     }
 }

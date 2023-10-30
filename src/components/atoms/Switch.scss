@@ -8,6 +8,10 @@
 
     border-left: 3px solid $color_dark;
 
+    span {
+        cursor: pointer;
+    }
+
     .switch-language {
         font-size: 1rem;
         font-weight: 600;

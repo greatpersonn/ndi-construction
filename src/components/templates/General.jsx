@@ -1,3 +1,5 @@
+import { useNavigate } from 'react-router-dom';
+
 import RequestCallForm from '../organisms/RequestCallForm';
 import Article from '../organisms/Article';
 import SubHeader from '../organisms/SubHeader';
@@ -63,6 +65,8 @@ const contentContacts = {
 }
 
 const General = () => {
+    const navigate = useNavigate();
+
     return (
         <>
             <SubHeader contents={contentHeader} />
@@ -71,7 +75,7 @@ const General = () => {
             <Article contents={["about-work-company-title.part_one", "about-work-company-title.part_two", "about-work-company-title.part_three", "about-work-company-title.part_fourth"]} imageUrl={imageArticle_02} side={"right"} />
             <Projects title={["projects-title"]} header={"projects-header"} contents={contentProjects} />
             <div className="wrapper-button">
-                <Button name={"all-projects"} action={() => { console.log('Navigate to projects page!') }} />
+                <Button name={"all-projects"} action={() => { navigate('/portfolio', { replace: true }); }} />
             </div>
             <RequestProjectForm imageUrl={imageProject_01} imageAlt={"Image Project"} header={"request-project.header"} title={["request-project.title"]} buttonNameDiscuss={"request-project.discuss-project"} buttonNameOffer={"request-project.get-offer"} />
             <FrequentlyAskedQuestion contents={contentFAQ} />

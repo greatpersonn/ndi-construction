@@ -1,0 +1,195 @@
+{
+    "about-company": "Par",
+    "contacts-company": "Kontakti",
+    "partnership-company": "Partnership",
+    "services-company": "Services",
+    "partfolio-company": "Portfolio",
+    "joboffer-company": "Nodarbinātība",
+    "ru": "RU",
+    "en": "EN",
+    "lv": "LV",
+    "work_example": "Darba piemērs",
+    "name-holder": "Bob",
+    "lastname-holder": "Bewsey",
+    "email-holder": "examplemail@gmail.com",
+    "phone-holder": "+__ (___) ___-__-__",
+    "textarea-holder": "Par sevi",
+    "call-me": "Pieprasīt zvanu",
+    "phone-number": "+49 176 325-44-188",
+    "shedule-calling": "Katru dienu no 10:00 līdz 22:30",
+    "email-company": "ndiconst@gmail.com",
+    "about-company-header": "Interjera dizaina studija Būvniecības uzņēmums",
+    "modal-call-header": "Atgriezeniskais zvans",
+    "modal-call-message": "Jūs esat veiksmīgi atstājis atpakaļsaukuma pieprasījumu, lūdzu, uzgaidiet, mūsu menedžeris drīz ar jums sazināsies!",
+    "error-call-header": "Nederīgs tālruņa numurs",
+    "error-call-message": "Lūdzu, ievadiet derīgu tālruņa numuru, pa kuru mēs varam ar jums sazināties!",
+    "about-arhitecture": {
+        "first": "Arhitektūra ir sava veida mūzika, ko var redzēt, dzirdēt un aptaustīt.",
+        "second":"Arhitektūrai jābūt prieka un svētku avotam visiem cilvēkiem.",
+        "third": "Arhitektūra nav tikai sienas un logi. Tā ir par telpas radīšanu, lai cilvēki varētu dzīvot, strādāt un rotaļāties.",
+        "fourth": "Arhitektūra ir tehnoloģija, kas ir atradusi ceļu, lai kļūtu par mākslu.",
+        "fiveth": "Arhitektūrai jābūt sabiedriskās dzīves pamatā, nevis izolācijai no tās.",
+        "sixth": "Arhitektūra ir mācīta, pareiza un krāšņa spēle ar gaismā saliktām formām.",
+        "seventh": "Arhitektūra ir dzīvs radošs process, kas virzās laikā un telpā, vienmēr brīvs no jebkādiem nežēlīgiem un ierobežojošiem nosacījumiem.",
+        "eighth": "Arhitektūrai vajadzētu iemiesot tās sabiedrības ideālus, kurai tā kalpo.",
+        "nineth":"Arhitektūra ir dzīve, kurai jābūt līdzsvarotai un harmoniskai.",
+        "tenth": "Arhitektūra ir veids, kā būt klāt pasaulē.",
+        "eleventh": "Arhitektūrai jābalstās uz pieredzi un apkārtējās pasaules uztveri.",
+        "twelfth": "Arhitektūra ir jaunas pasaules radīšana, kuras pamatā ir skaistums, kārtība un harmonija.",
+        "thirteenth": "Arhitektūra ir neticami spēcīgs instruments, lai mainītu pasauli ap mums."
+    },
+    "about-company-title": {
+        "part_one":  "Construction Company ir uzņēmums, kas specializējas interjera dizaina un būvniecības jomā. Uzņēmumam ir bagāta pieredze skaistu un funkcionālu interjeru radīšanā gan dzīvojamiem, gan komerciāliem īpašumiem. Viņi sniedz plašu pakalpojumu klāstu, sākot no projektēšanas un konsultācijām līdz pat pilnīgai interjera būvniecībai un iekārtošanai.",
+        "part_two": "Construction Company komandu veido pieredzējuši profesionāļi, tostarp dizaineri, arhitekti, inženieri un celtnieki, kuri strādā kopā, lai radītu interjerus, kas atbilst visām klientu vajadzībām un vēlmēm. Uzņēmums izmanto tikai augstas kvalitātes materiālus un inovatīvas tehnoloģijas, lai radītu interjerus, kas izskatās lieliski un kalpos to īpašniekiem daudzus gadus.",
+        "part_three": "Būvniecības uzņēmums piedāvā individuālu pieeju katram klientam, ņemot vērā viņa budžetu, gaumi un vajadzības. Viņi sadarbojas ar klientiem visos procesa posmos, lai nodrošinātu, ka viņu idejas un vēlmes tiek ņemtas vērā un realizētas topošajā interjerā.",
+        "part_fourth": "Būvniecības uzņēmums cenšas radīt unikālus interjerus, kas atspoguļo katra klienta individualitāti un stilu, kā arī sniedz garantiju sava darba kvalitātei. Ja meklējat uzņēmumu, kas var radīt satriecošu interjeru, kas kalpos jums daudzus gadus, tad Construction Company ir lieliska izvēle."
+    },
+    "about-work-company-title": {
+        "part_one": "Uzņēmums ir īstenojis daudzus projektus gan dzīvojamām, gan komerciālām vajadzībām, sākot no nelieliem dzīvokļiem līdz lielām biroju ēkām. Neatkarīgi no projekta lieluma vai sarežģītības Būvniecības uzņēmums vienmēr nodrošina izcilus rezultātus, kas pārsniedz klientu cerības.",
+        "part_two": "Construction Company ir pazīstama ar savu uzmanību detaļām un spēju īstenot klientu redzējumu. Viņi cieši sadarbojas ar saviem klientiem visa procesa laikā, sākot no sākotnējā projekta līdz pat galīgajai būvniecībai, lai nodrošinātu, ka galarezultāts atbilst klientu vajadzībām un pārsniedz viņu cerības.",
+        "part_three": "Viņu darba rezultāti ir redzami skaistajos un funkcionālajos interjeros, ko viņi ir radījuši. Viņu projekti ir novatoriski, moderni un pielāgoti klientu individuālajām vajadzībām. Viņu radītie interjeri ir ne tikai estētiski pievilcīgi, bet arī funkcionāli un praktiski, kas atbilst klientu vajadzībām un uzlabo viņu ikdienas dzīvi.",
+        "part_fourth": "Kopsavilkumā: Construction Company ir ilggadēja reputācija, kas nodrošina izcilus rezultātus interjera dizaina un būvniecības jomā. Par viņu apņemšanos sasniegt izcilību un uzmanību detaļām liecina satriecošie interjeri, ko viņi ir radījuši saviem klientiem. Ja meklējat uzņēmumu, kas spēj nodrošināt izcilus rezultātus un īstenot jūsu interjera dizaina vīziju, Construction Company ir lieliska izvēle."
+    },
+    "projects-title": "Vai jūsu māja nav tā vērta?",
+    "projects-header": "Mūsu projekti",
+    "all-projects": "Visi projekti",
+    "request-project": {
+        "header": "Jūs varat izbaudīt interjeru, piezvanot mums",
+        "title": "Mēs uzņemamies pilnu atbildību par projekta izstrādi un īstenošanu!",
+        "discuss-project": "Apspriest projektu",
+        "get-offer": "Saņemt piedāvājumu",
+        "modal-header-discuss": "Jūsu projekts",
+        "modal-message-discuss": "Aizpildiet tālāk norādītos obligātos laukus, lai mēs varētu ar jums sazināties turpmākai sadarbībai!",
+        "modal-header-offer": "Piedāvājums",
+        "modal-message-offer": "Aizpildot tālāk norādītos obligātos laukus, mēs varēsim jums nosūtīt jaunākos mūsu uzņēmuma piedāvājumus un atlaides!",
+        "button-name": "Sūtīt",
+        "submodal-error-header": "Nepareizi dati",
+        "submodal-error-message": "Ievadiet derīgu tālruņa numuru un e-pastu, tādā gadījumā jūs varēsiet pieteikties darbam!"
+    },
+    "faq-header": "FAQ",
+    "dropdown-header-text": {
+        "first": "Kāpēc nepieciešama uzraudzība?",
+        "second": "Kāpēc jums ir nepieciešams objektu kopums?",
+        "third": "Kādos stilos jūs strādājat?",
+        "fourth": "Cik daudz stāvu plānu jūs veidojat?",
+        "fiveth": "Vai jūs varat izveidot pilnu projektu 1 mēneša laikā?"
+    },
+    "request-partnership": {
+        "header": "Partnerships",
+        "title": "Mēs vienmēr priecājamies par jebkādiem priekšlikumiem, jo īpaši par partnerībām. Mēģināsim viens otram piedāvāt kaut ko tādu, ko neviens nevar aizstāt!",
+        "name": "Ievadiet savu vārdu",
+        "lastname": "Ievadiet savu uzvārdu",
+        "phone": "Ievadiet savu tālruņa numuru",
+        "email": "Ievadiet savu e-pastu",
+        "become-partner": "Kļūt par partneri",
+        "modal-header": "Partnerības pieteikums",
+        "modal-message": "Lūdzu, uzgaidiet, mēs ar jums sazināsimies tuvākajā laikā un apspriedīsim visas mūsu partnerības detaļas!",
+        "error-header": "Nepareizi dati",
+        "error-message": "Ievadiet pareizo tālruņa numuru un e-pasta adresi, tādā gadījumā jūs varēsiet pieteikties partnerībai!"
+    },
+    "request-employment": {
+        "header": "Vai jūs meklējat darbu un vēlaties kļūt par mūsu uzņēmuma darbinieku?",
+        "title": "Nosūtiet mums savu CV, un mēs atradīsim jums piemērotu vakanci mūsu uzņēmumā!",
+        "file-upload": "Augšupielādējiet failu",
+        "modal-header": "Veiksmīgi",
+        "modal-message": "Jūs esat veiksmīgi aizpildījis laukus un nosūtījis savu darba pieteikumu, mūsu vadītājs drīz ar jums sazināsies un precizēs dažas detaļas, lūdzu, uzgaidiet!",
+        "error-header": "Nepareizi dati",
+        "error-message": "Ievadiet derīgu tālruņa numuru un e-pastu, tādā gadījumā jūs varēsiet pieteikties darbam!",
+        "button-name": "Sūtīt"
+    },
+    "contacts": {
+        "header": "Mūsu kontakti",
+        "first-phone": "+49 176 325 44 188",
+        "second-phone": "+371 284 73 461",
+        "title-phone": "Katru dienu no plkst. 10:00 līdz 22:30",
+        "email-company": "ndiconst@gmail.com",
+        "title-email": "Jūs varat sazināties ar mums arī pa e-pastu, izmantojot šo aktuālo adresi!",
+        "first-title": "Šeit ir norādītas iespējas, ar kuru palīdzību jūs varat sazināties ar mums un noskaidrot vai precizēt jūs interesējošo informāciju. Jūs varat arī atstāt pieprasījumu par zvanu, noklikšķinot uz zemāk redzamās pogas un aizpildot nepieciešamos laukus!"
+    },
+    "footer": {
+        "title-arhitecture": "Arhitektūra nav tikai skaistu ēku radīšana, tā ir pilsētas dzīvā elpa, kur katrai līnijai, katrai formai un katrai telpai ir spēks pārveidot apkārtējo pasauli un iedvesmot tos, kas tajā dzīvo.",
+        "title-company": "Interjera dizaina studija NDI Construction Company"
+    },
+    "about-page": {},
+    "services-page": {
+        "header": "Par pakalpojumiem",
+        "title": {
+            "first":  "NDI Construction Company ir interjera dizaina uzņēmums ar ilggadēju pieredzi šajā nozarē. Mēs lepojamies ar savu reputāciju kā uzticama un profesionāla komanda, kas rada unikālus un funkcionālus interjera risinājumus.",
+            "second": "Mēs piešķiram lielu nozīmi sava darba kvalitātei. Mēs strādājam tikai ar pārbaudītiem un augstas kvalitātes materiāliem, lai garantētu jūsu interjera ilgmūžību un estētisko pievilcību. Mēs izmantojam arī progresīvas tehnoloģijas un inovatīvas pieejas, lai sasniegtu optimālu rezultātu katrā projektā.",
+            "third": "Mūsu mērķis ir nodrošināt jums ne tikai skaistu interjeru, bet arī funkcionālu telpu, kas atspoguļo jūsu stilu un atbilst jūsu vajadzībām. Mēs uzmanīgi uzklausām jūsu vēlmes un cenšamies tās īstenot, ņemot vērā budžetu un projekta termiņus.",
+            "fourth": "Mēs garantējam augstu profesionalitātes un pārredzamības līmeni visos darba aspektos. Mēs sadarbojamies ar jums visa procesa laikā, nodrošinot regulāru saziņu un atgriezenisko saiti, lai jūs būtu informēti par katru darba posmu."
+        },
+        "sub-title": {
+            "first": "Mēs lepojamies, ka varam piedāvāt jums visus šos pakalpojumus, lai izveidotu ideālu telpu atbilstoši jūsu vajadzībām un gaumei. Mūsu profesionāļu komanda ar lielu pieredzi garantē visu veikto darbu augstu kvalitāti.",
+            "second": "Rezultātā sadarbība ar būvniecības uzņēmumu NDI sniedz jums iespēju saņemt pilnu interjera dizaina pakalpojumu klāstu. Mēs piedāvājam arhitektūras uzraudzību, kur uzņemamies atbildību par jūsu projekta pareizu izpildi. Mūsu dekoratori palīdzēs jums izveidot stilīgu interjeru, kas atspoguļo jūsu personību. Apdares darbi un fasādes darbi tiks veikti profesionāli un precīzi, lai jūsu telpa izskatītos nevainojami. Mūsu galdnieku komanda izveidos mēbeles un interjera elementus, kas iederēsies kopējā stilā un atbildīs jūsu vajadzībām.",
+            "third": "Mēs cenšamies pārsniegt jūsu cerības un radīt telpu, kas jūs iedvesmos un iepriecinās. Kvalitāte, uzticamība un individuāla pieeja - ar to mēs esam atšķirīgi. Sazinieties ar mums jau šodien, lai sāktu pārvērst jūsu interjera projektu realitātē."
+        },
+        "button-name": "Iesniegt pieteikumu",
+        "service-first": {
+            "header": "Autora uzraudzība",
+            "title": "Šis pakalpojuma veids garantē klientam pilnīgu un precīzu visa jūsu projekta īstenošanu."
+        },
+        "service-second": {
+            "header": "Dekorators",
+            "title": "Šī ir persona, kas spēs veikt sarežģītākos uzdevumus. Dekoratīvais apmetums vienmēr ļaus jums realizēt savu individualitāti jūsu remontā, saglabāt augstu stilu un vienmēr iet kopsolī ar laiku"
+        },
+        "service-third": {
+            "header": "Apdares darbi",
+            "title": "Mēs sniedzam pabeigtas apdares pakalpojumus. Profesionālu apdares darbu speciālistu komanda veiks jebkuras sarežģītības darbus - gan rupjos, gan apdares darbus."
+        },
+        "service-fourth": {
+            "header": "Fasādes darbi",
+            "title": "Mēs sniedzam tā sauktās mitrās fasādes pakalpojumus, kas ietver siltināšanu, pastiprināšanu, dekoru."
+        },
+        "service-fiveth": {
+            "header": "Galdniecības darbi",
+            "title": "Mūsu galdnieku komanda veic tādus darbus kā ieklāšanas dēļu uzstādīšana, lapenīšu un dažādu nojumju uzstādīšana."
+        }
+    },
+    "portfolio-page": { 
+        "small-header": "Mūsu darbi",
+        "header": "Par būvniecības uzņēmuma NDI darbu",
+        "title": {
+            "first": "NDI Construction Company darba kvalitāte ir viena no tās galvenajām prioritātēm. Uzņēmums lepojas ar savu spēju sniegt izcilus interjera dizaina un būvniecības pakalpojumus, kas atbilst un pārsniedz klientu vēlmes.",
+            "second": "Viens no galvenajiem NDI Construction Company darba kvalitātes aspektiem ir uzņēmuma darbinieku profesionalitāte. Katram komandas loceklim ir plaša pieredze un zināšanas savā jomā, kas ļauj uzņēmumam nodrošināt augstu projektu izpildes līmeni. Viņi rūpīgi uzklausa savus klientus, ņem vērā viņu vēlmes un piedāvā inovatīvus un praktiskus risinājumus, kas atbilst visaugstākajiem standartiem.",
+            "third": "NDI būvkompānija lielu nozīmi piešķir arī kvalitatīvu materiālu un resursu izvēlei un izmantošanai. Viņi rūpīgi izvēlas piegādātājus un darbuzņēmējus, lai nodrošinātu, ka visi izmantotie materiāli un sastāvdaļas ir uzticami un izturīgi. Uzņēmums cenšas nodrošināt, lai tā darba rezultāts izturētu laika pārbaudi un priecētu klientus daudzus gadus.",
+            "fourth": "Kad runa ir par NDI Construction Company darbiniekiem, viņi ir tikpat svarīgi kā paši projekti. Uzņēmums lepojas ar savu augsti kvalificēto speciālistu komandu, kurā ietilpst projektētāji, arhitekti, celtnieki un projektu vadītāji. Katram personāla loceklim ir plaša pieredze un zināšanas savā jomā, kas ļauj uzņēmumam īstenot augstas kvalitātes projektus.",
+            "fiveth": "Turklāt NDI Construction Company komandu raksturo profesionalitāte, radošums un uzmanība pret detaļām. Viņi cieši sadarbojas ar klientiem, lai izprastu viņu vajadzības un pārvērstu tās realitātē. Pateicoties teicamām komunikācijas un vadības prasmēm, uzņēmuma darbinieki spēj nodrošināt savlaicīgu un veiksmīgu projektu īstenošanu."
+        }
+    },
+    "partnership-page": {
+        "small-header": "Partnerība",
+        "header": "NDI partneru programma",
+        "title": {
+            "first": "NDI Construction Company ir vadošais uzņēmums, kas specializējas interjera dizainā un unikālu telpu radīšanā. Mēs lepojamies ar savu reputāciju kā augstākās klases profesionāļi, kas ar vieglumu pārvērš jūsu redzējumu realitātē.",
+            "second": "Mūsu partneri ir mūsu panākumu sirds un dvēsele. Mēs cenšamies veidot ilgtermiņa partnerattiecības ar vadošajiem zīmoliem un materiālu piegādātājiem, lai nodrošinātu saviem klientiem tikai vislabāko kvalitāti un uzticamību. Mēs esam pārliecināti, ka veiksmīga partnerība ir abpusējs ieguvums, tāpēc pastāvīgi strādājam pie tā, lai stiprinātu saites ar mūsu partneriem.",
+            "third":  "Kas padara mūsu partnerību ar mums tik unikālu? Pirmkārt, mēs augstu vērtējam individualitāti un kvalitāti. Mēs cenšamies, lai katrs projekts, kurā esam iesaistīti, būtu īpašs un atbilstu mūsu klientu vēlmēm. Mēs rūpīgi izvēlamies savus partnerus, lai pārliecinātos, ka viņiem ir līdzīga mūsu aizraušanās ar kvalitāti un inovācijām.",
+            "fourth": "Otrkārt, mūsu partnerība ar būvniecības uzņēmumu NDI ir veiksmes garants. Mēs saviem partneriem piedāvājam plašas iespējas popularizēt savus produktus un pakalpojumus kopā ar mūsu projektiem. Mēs sadarbojamies ar vadošajiem zīmoliem, lai saviem klientiem piedāvātu ekskluzīvus un augstas kvalitātes risinājumus viņu interjeriem.",
+            "fiveth": "Mūsu stratēģiskā orientācija un ciešās attiecības ar partneriem ļauj mums piedāvāt klientiem mūsdienīgus un inovatīvus risinājumus. Mēs sekojam līdzi jaunākajām interjera dizaina tendencēm un vienmēr esam atvērti jaunām idejām un iespējām.",
+            "sixth": "Ja esat ieinteresēts sadarboties ar mums, mēs labprāt jūs uzklausīsim. Mūsu komanda ir gatava apspriest iespējamās sadarbības iespējas un rast labākos risinājumus, kas būs abpusēji izdevīgi visām pusēm.",
+            "seventh": "Sazinieties ar mums jau šodien, lai sāktu abpusēji izdevīgu sadarbību un radītu unikālus interjerus, par kuriem runās vēl daudzus gadus."
+        }
+    },
+    "contacts-page": {
+        "small-header": "Kontakti",
+        "header": "NDI Contact Center",
+        "title": {
+            "first": "Mēs vienmēr esam gatavi pieņemt jūsu zvanu un apspriest jūsu interjera dizaina vajadzības. Lai iegūtu plašāku informāciju vai projekta detaļas, sazinieties ar mums.",
+            "second": "Mūsu profesionāļu komanda ir gatava uzņemties izaicinājumu pārveidot jūsu telpu par unikālu un apburošu telpu, kas atspoguļo jūsu personību un stilu. Mēs cenšamies panākt visaugstāko kvalitāti un izcilību katrā projektā, tāpēc sazinieties ar mums jau šodien un dodiet mums iespēju pārsniegt jūsu cerības.",
+            "third": "Mēs saprotam, ka katrs klients ir unikāls, tāpēc mūsu dizaineri rūpīgi uzklausīs jūsu vēlmes un vajadzības, lai radītu interjeru, kas atspoguļo jūsu redzējumu un iemieso jūsu dzīves filozofiju. Mēs garantējam individuālu pieeju un rūpīgu uzmanību detaļām, lai sasniegtu perfektu rezultātu.",
+            "fourth": "Lūdzu, sazinieties ar mums jau šodien. Mēs esam gatavi apspriest jūsu idejas, sniegt dizaina konsultācijas un palīdzēt jums īstenot jūsu sapni."
+        }
+    },
+    "employment-page": {
+        "small-header": "Nodarbinātība",
+        "header": "NDI nodarbinātības centrs",
+        "title": {
+            "first": "NDI Construction Company ir dinamisks uzņēmums, un mēs vienmēr esam priecīgi uzņemt jaunus talantīgus cilvēkus savā komandā. Ja meklējat karjeru interjera dizaina jomā un vēlaties kļūt par daļu no mūsu veiksmīgās organizācijas, mēs aicinām jūs apsvērt iespēju strādāt kopā ar mums.",
+            "second": "Mēs meklējam radošus, enerģiskus un motivētus profesionāļus, kuriem ir kopīgas mūsu vērtības - kvalitāte, inovācijas un orientācija uz klientu. Mēs cenšamies radīt unikālus un iespaidīgus interjera risinājumus saviem klientiem, tāpēc no saviem darbiniekiem sagaidām augstu iesaistīšanās līmeni un profesionalitāti.",
+            "third": "Mēs piedāvājam dažādas profesionālās izaugsmes un attīstības iespējas. Šeit jūs atradīsiet stimulējošu darba vidi, kurā tiek novērtēts radošums, komandas darbs un mijiedarbība ar klientiem. Mēs atbalstām savu darbinieku profesionālo izglītību un nepārtrauktu pilnveidi, lai viņi varētu pilnībā izmantot savu potenciālu un gūt panākumus karjerā.",
+            "fourth": "Ja jums ir pieredze interjera dizainā, labas klientu apkalpošanas prasmes un vēlme palīdzēt radīt lieliskus interjerus, mēs labprāt jūs izskatīsim. Lūdzu, sūtiet savu CV un portfolio uz mūsu e-pasta adresi ndiconst@gmail.com, norādot tēmu Nodarbinātība. Mēs ar jums sazināsimies, ja jūsu kvalifikācija atbildīs mūsu prasībām.",
+            "fiveth": "Būvniecības uzņēmums NDI atzīst un augstu vērtē daudzveidību un vienlīdzīgas iespējas. Mēs atbalstām iespēju vienlīdzību un aicinām visas ieinteresētās personas, kas atbilst mūsu prasībām, iesniegt pieteikumus.",
+            "sixth": "Pievienojieties mūsu komandai un piedalieties mūsu panākumos. Mēs ar nepacietību gaidām jūs!"
+        }
+    }
+}
