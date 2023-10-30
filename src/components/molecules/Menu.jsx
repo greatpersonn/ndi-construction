@@ -24,7 +24,7 @@ const Menu = ({ active, setActive }) => {
                         <Navigation />
                         <div className="setting-languages">
                             <span className='switch-language' onClick={() => handlerLanguages("ru")}>{t("ru")}</span>
-                            <span className='switch-language' onClick={() => handlerLanguages("lt")}>{t("lt")}</span>
+                            <span className='switch-language' onClick={() => handlerLanguages("lv")}>{t("lv")}</span>
                             <span className='switch-language' onClick={() => handlerLanguages("en")}>{t("en")}</span>
                         </div>
                     </div>
